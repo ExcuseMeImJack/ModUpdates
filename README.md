@@ -4,7 +4,7 @@
 ## Part 1 - Installing Fabric 1.20.1
 ### 1. Locate the file `fabric-installer-0.11.2.exe` and run it.
 ### 2. Make sure you have `Minecraft Version 1.20.1`, `Loader Version 0.14.23`, and `Create profile` selected. *(Shown Below)*
-![Alt text](image.png)
+![Alt text](./ignore/image.png)
 ### 1. After, click `Install` and then `Ok` once it's finished.
 
 ## Part 2 - Installing Mods
@@ -18,5 +18,5 @@
 
 ## Part 3 - Opening Minecraft
 ### 1. Launch the Minecraft Launcher and make sure you have `fabric-loader-1.20.1` set as the selected installation.
-![Alt text](image-1.png)
+![Alt text](./ignore/image-1.png)
 # ModUpdates
