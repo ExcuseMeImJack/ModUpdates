@@ -1,5 +1,5 @@
 # How to Update Mods for 1.20.1
-***Updated: October 7th, 2023***
+***Updated: October 12th, 2023***
 
 ## Part 1 - Installing Fabric 1.20.1
 ### 1. Locate the file `fabric-installer-0.11.2.exe` and run it.
