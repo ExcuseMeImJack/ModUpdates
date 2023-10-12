@@ -19,4 +19,3 @@
 ## Part 3 - Opening Minecraft
 ### 1. Launch the Minecraft Launcher and make sure you have `fabric-loader-1.20.1` set as the selected installation.
 ![Alt text](./ignore/image-1.png)
-# ModUpdates
